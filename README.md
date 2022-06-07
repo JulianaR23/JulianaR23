@@ -1,6 +1,6 @@
 ## Oii Bem Vindo(a), sou a Juliana Souza! 👋
 
-♦ Faço parte do bootcamp da Generation na Turma 53 🚀
+♦ Faço parte do Bootcamp de Desenvolvimento JAVA FullStack da Generation Brasil na Turma 53 🚀
 
 ♦ Estou cursando Análise e Desenvolvimento de Sistemas na Uninove 🎓
 
