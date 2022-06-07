@@ -1,8 +1,8 @@
 ## Oii Bem Vindo(a), sou a Juliana Souza! 👋
 
-Faço parte do bootcamp da Generation na Turma 53 🚀
+✱ Faço parte do bootcamp da Generation na Turma 53 🚀
 
-e estou cursando Análise e Desenvolvimento de Sistemas na Uninove 🎓
+✱ Estou cursando Análise e Desenvolvimento de Sistemas na Uninove 🎓
 
 </div>
  <a href="https://github.com/julianar23">
