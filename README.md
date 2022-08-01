@@ -1,8 +1,8 @@
 ## Oii Bem Vindo(a), sou a Juliana Souza! 👋
 
-♦ Faço parte do Bootcamp de Desenvolvimento JAVA FullStack da Generation Brasil na Turma 53 🚀
+♦ Formada como Desenvolvedora Java FullStack pela Generation Brasil 🚀
 
-♦ Estou cursando Análise e Desenvolvimento de Sistemas na Uninove 🎓
+♦ Cursando Análise e Desenvolvimento de Sistemas na Uninove 🎓
 
 </div>
  <a href="https://github.com/julianar23">
